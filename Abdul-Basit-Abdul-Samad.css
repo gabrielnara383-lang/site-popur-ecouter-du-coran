@@ -1,0 +1,49 @@
+* {
+  font-family: "Comic Relief", system-ui;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+}
+
+body
+{
+background-color: white;
+background-image: url('divers/fond.webp');
+background-repeat: no-repeat;
+background-size: cover;
+color: black;
+}
+
+#logo
+{
+  width: 300px;
+}
+
+#image-1
+{
+  border: solid 10px black;
+}
+h1{
+  margin-bottom: 100px;
+}
+h2
+{
+  margin-bottom: 70px;
+}
+legend
+{
+  margin-top: 40px;
+}
+
+ul li 
+{
+  list-style: none;
+}
+ul
+{
+  padding: 0;
+}
+input
+{
+  font-size: large;
+}
