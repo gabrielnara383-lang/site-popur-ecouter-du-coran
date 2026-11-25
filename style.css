@@ -12,15 +12,15 @@
 }
 .background
 {
-    background: #090931;
+    background: #282d95;
     padding: 10px;
 }
 body
 {
-background-color: #101b5a;
+background-color: #059cc9;
 background-repeat: no-repeat;
 background-size: cover;
-color: #ddb504;
+color: #d9a74d;
 text-align: center;
 }
 
@@ -55,11 +55,11 @@ nav li{
 {
     width: 100px;
     height: 100px;
-    border: 3px solid rgb(240, 240, 240);
+    border: 3px solid rgb(0, 0, 0);
 }
 fieldset
 {
-    border: 10px solid #ddb504;
+    border: 10px solid #d9a74d;
     width: calc(100% - 50px);
     margin-left: auto;
     margin-right: auto;
