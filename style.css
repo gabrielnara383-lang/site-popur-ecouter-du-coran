@@ -9,6 +9,7 @@
   font-weight: 400;
   font-style: normal;
   
+  
 }
 .background
 {
@@ -22,11 +23,16 @@ background-repeat: no-repeat;
 background-size: cover;
 color: #d9a74d;
 text-align: center;
+text-shadow: 0 0 6px yellow;
+text-shadow: 0 0 20px yellow;
+text-shadow: 0 0 30px yellow;
+
+
 }
 
 #logo
 {
-  width: 300px;
+  width: 300px;filter: drop-shadow( 0 0 6px yellow);
 }
 
 main
@@ -66,3 +72,6 @@ fieldset
 }
 
 
+figcaption{
+    filter: drop-shadow(0 0 6px yellow);
+}
